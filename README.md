@@ -1,6 +1,6 @@
 # Comportamento em Video
 
-![alt](https://www.blogs.unicamp.br/socialmente/wp-content/uploads/sites/238/2013/08/games.jpg)
+<div style="text-align:center"><img src="https://www.blogs.unicamp.br/socialmente/wp-content/uploads/sites/238/2013/08/games.jpg" alt="Imagem" width="300"></div>
 
 ## Bibliotecas usadas
 
