@@ -1,0 +1,15 @@
+------ - 2023-09-15 20:23:44
+Quadrante 1: Vermelhos: 0 (Tempo: 0:00:00), Azuis: 3 (Tempo: 0:04:00) - 2023-09-15 20:23:44
+Quadrante 2: Vermelhos: 0 (Tempo: 0:00:00), Azuis: 2 (Tempo: 0:02:02) - 2023-09-15 20:23:44
+Quadrante 3: Vermelhos: 0 (Tempo: 0:00:00), Azuis: 3 (Tempo: 0:05:41) - 2023-09-15 20:23:44
+Quadrante 4: Vermelhos: 0 (Tempo: 0:00:00), Azuis: 0 (Tempo: 0:00:00) - 2023-09-15 20:23:44
+------ - 2023-09-15 20:23:48
+Quadrante 1: Vermelhos: 0 (Tempo: 0:00:00), Azuis: 4 (Tempo: 0:08:37) - 2023-09-15 20:23:48
+Quadrante 2: Vermelhos: 0 (Tempo: 0:00:00), Azuis: 2 (Tempo: 0:03:44) - 2023-09-15 20:23:48
+Quadrante 3: Vermelhos: 0 (Tempo: 0:00:00), Azuis: 5 (Tempo: 0:10:58) - 2023-09-15 20:23:48
+Quadrante 4: Vermelhos: 0 (Tempo: 0:00:00), Azuis: 0 (Tempo: 0:00:00) - 2023-09-15 20:23:48
+------ - 2023-09-15 20:23:51
+Quadrante 1: Vermelhos: 0 (Tempo: 0:00:00), Azuis: 4 (Tempo: 0:14:04) - 2023-09-15 20:23:51
+Quadrante 2: Vermelhos: 0 (Tempo: 0:00:00), Azuis: 1 (Tempo: 0:05:27) - 2023-09-15 20:23:51
+Quadrante 3: Vermelhos: 0 (Tempo: 0:00:00), Azuis: 4 (Tempo: 0:16:46) - 2023-09-15 20:23:51
+Quadrante 4: Vermelhos: 0 (Tempo: 0:00:00), Azuis: 0 (Tempo: 0:00:00) - 2023-09-15 20:23:51
